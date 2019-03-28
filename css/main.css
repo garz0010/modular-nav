@@ -27,10 +27,17 @@ div {
   background-color: #e2e2e2;
 }
 
-a:hover {
-  background-color: #0074d9;
+h1 {
+  text-align: center;
 }
 
 ul {
   text-decoration: none;
+  text-align: left;
+  color: #0074d9;
+}
+
+a:hover {
+  background-color: #0074d9;
+  color: #fff;
 }
