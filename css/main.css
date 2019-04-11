@@ -20,10 +20,9 @@ html {
 
 body {
   margin: 0;
-  display: inline-block;
 }
 
-div {
+.logo {
   background-color: #e2e2e2;
 }
 
@@ -35,9 +34,21 @@ ul {
   text-decoration: none;
   text-align: left;
   color: #0074d9;
+  text-align: center;
+
 }
 
-a:hover {
+li {
+    display: inline-block;
+}
+
+li a {
+  text-decoration: none;
+}
+
+
+li a:hover {
   background-color: #0074d9;
   color: #fff;
+
 }
