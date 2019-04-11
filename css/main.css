@@ -45,9 +45,7 @@ li a {
   text-align: left;
 }
 
-
 li a:hover {
   background-color: #0074d9;
   color: #fff;
-
 }
