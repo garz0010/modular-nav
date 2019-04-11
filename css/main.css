@@ -34,7 +34,7 @@ ul {
 }
 
 li {
-    display: inline-block;
+  display: inline-block;
 }
 
 li a {
@@ -45,4 +45,5 @@ li a {
 li a:hover {
   background-color: #0074d9;
   color: #fff;
+
 }
