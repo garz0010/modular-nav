@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: normal 100%, sans-serif;
+  font-family: normal, sans-serif;
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
